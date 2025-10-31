@@ -6,10 +6,6 @@
 このリポジトリは[LeetCode](https://leetcode.com/ "LeetCode")の学習記録です。<br>
 回答言語はPython3です。
 
-This repository contains my learning records for the [LeetCode](https://leetcode.com/ "LeetCode").<br>
-I solved them in Python3.
-
-
-
+This repository contains my Python3 learning records on [LeetCode](https://leetcode.com/ "LeetCode").
 
 
