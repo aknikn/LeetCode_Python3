@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/-Python-ab6c37.svg?logo=python&style=plastic">
+<img src="https://img.shields.io/badge/-Python-ab6c37.svg?logo=python&style=flat-square">
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0098FF.svg?logo=visual-studio-code&style=flat-square">
 <img src="https://img.shields.io/badge/-Windows-666666.svg?logo=windows&style=flat-square">
 
